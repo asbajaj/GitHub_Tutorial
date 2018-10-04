@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="My Demo Test Automation Suite" duration-ms="65" started-at="2018-10-04T13:24:29Z" finished-at="2018-10-04T13:24:29Z">
+    <groups>
+    </groups>
+    <test name="My Demo Test" duration-ms="65" started-at="2018-10-04T13:24:29Z" finished-at="2018-10-04T13:24:29Z">
+      <class name="com.testpackage.TestClass2">
+        <test-method status="PASS" signature="a1()[pri:0, instance:com.testpackage.TestClass2@735f7ae5]" name="a1" duration-ms="0" started-at="2018-10-04T13:24:29Z" finished-at="2018-10-04T13:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method status="PASS" signature="a2()[pri:0, instance:com.testpackage.TestClass2@735f7ae5]" name="a2" duration-ms="0" started-at="2018-10-04T13:24:29Z" finished-at="2018-10-04T13:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a2 -->
+        <test-method status="PASS" signature="a3()[pri:0, instance:com.testpackage.TestClass2@735f7ae5]" name="a3" duration-ms="0" started-at="2018-10-04T13:24:29Z" finished-at="2018-10-04T13:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3 -->
+        <test-method status="PASS" signature="a4()[pri:0, instance:com.testpackage.TestClass2@735f7ae5]" name="a4" duration-ms="0" started-at="2018-10-04T13:24:29Z" finished-at="2018-10-04T13:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a4 -->
+      </class> <!-- com.testpackage.TestClass2 -->
+      <class name="com.testpackage.TestClass1">
+        <test-method status="PASS" signature="a1()[pri:0, instance:com.testpackage.TestClass1@17550481]" name="a1" duration-ms="10" started-at="2018-10-04T13:24:29Z" finished-at="2018-10-04T13:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method status="PASS" signature="a2()[pri:0, instance:com.testpackage.TestClass1@17550481]" name="a2" duration-ms="0" started-at="2018-10-04T13:24:29Z" finished-at="2018-10-04T13:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a2 -->
+        <test-method status="PASS" signature="a3()[pri:0, instance:com.testpackage.TestClass1@17550481]" name="a3" duration-ms="1" started-at="2018-10-04T13:24:29Z" finished-at="2018-10-04T13:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3 -->
+        <test-method status="PASS" signature="a4()[pri:0, instance:com.testpackage.TestClass1@17550481]" name="a4" duration-ms="0" started-at="2018-10-04T13:24:29Z" finished-at="2018-10-04T13:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a4 -->
+      </class> <!-- com.testpackage.TestClass1 -->
+    </test> <!-- My Demo Test -->
+  </suite> <!-- My Demo Test Automation Suite -->
+</testng-results>
